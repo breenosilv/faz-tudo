@@ -14,7 +14,8 @@ Abra o projeto em sua IDE preferida.
 Execute a classe SistemaGestaoPrincipal.java para iniciar o sistema.
 Siga as instruções no console para interagir com o sistema.
 
-Exemplos
+Exemplos:
+
 Aqui estão alguns exemplos de como usar o sistema:
 
 Cadastro de Cliente:
